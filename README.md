@@ -5,9 +5,14 @@
   
 - ⌨️ Bootcamp Finalizado! [AWS re/start](https://aws.amazon.com/es/training/restart/). Ya soy [AWS Cloud Practitioner](https://www.credly.com/badges/8e519882-77f2-475e-a11d-afbc2a0c10fe/).
 
-- 🌱 Actualmente me encuentro aprendiendo Kotlin y AWS. Mis proyectos a futuro tratarán de: aplicaciones móviles usando Android Studio y aplicaciones web utilizando Kotlin/WASM, todo esto hosteado en servicios de AWS. 
-
 - 🤝 Todos mis proyectos están en repositorios públicos.
+
+- 🌱 Actualmente me encuentro aprendiendo Kotlin, AWS, Google Cloud, IBM Cloud y DevOps. Estos son mis siguientes objetivos:
+  - [ ] Aprender más de containerization y CI/CD.
+  - [ ] Terminar todos los [pathway](https://developer.android.com/courses) de Android Developer (beginners and experienced devs).
+  - [ ] Lograr el [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) de AWS.
+  - [ ] Lograr el [Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer?hl=es-419) de Google Cloud.
+  - [ ] Completar más [cursos](https://github.com/dottox/ibm-notes) de mi pasantía en IBM.
 
 <h3 align="left">Me encuentras en:</h3>
 <p align="left">
