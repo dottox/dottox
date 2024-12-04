@@ -7,12 +7,13 @@
 
 - 🤝 Todos mis proyectos están en repositorios públicos.
 
-- 🌱 Actualmente me encuentro aprendiendo Kotlin, AWS, Google Cloud, IBM Cloud y DevOps. Estos son mis siguientes objetivos:
-  - [ ] Aprender más de containerization y CI/CD.
-  - [ ] Terminar todos los [pathway](https://developer.android.com/courses) de Android Developer (beginners and experienced devs).
+- 🌱 Actualmente me encuentro desarrollando aún más mis skills en Cloud y DevOps. Estos son mis objetivos recientes:
+  - [X] Lograr el [Cloud Practitioner](https://www.credly.com/badges/8e519882-77f2-475e-a11d-afbc2a0c10fe/) de AWS.
   - [ ] Lograr el [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) de AWS.
   - [ ] Lograr el [Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer?hl=es-419) de Google Cloud.
+  - [ ] Completar el curso de Coursera de IBM de DevOps.
   - [ ] Completar más [cursos](https://github.com/dottox/ibm-notes) de mi pasantía en IBM.
+  - [ ] Aprender Laravel.
 
 <h3 align="left">Me encuentras en:</h3>
 <p align="left">
