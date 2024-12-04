@@ -14,6 +14,7 @@
   - [ ] Completar el curso de Coursera de IBM de DevOps.
   - [ ] Completar más [cursos](https://github.com/dottox/ibm-notes) de mi pasantía en IBM.
   - [ ] Aprender Laravel.
+  - [ ] Completar el Advent of Code 2024, mi progreso en este [repo](https://github.com/dottox/AOC2024).
 
 <h3 align="left">Me encuentras en:</h3>
 <p align="left">
