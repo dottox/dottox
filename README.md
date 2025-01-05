@@ -10,10 +10,9 @@
 - 🌱 Actualmente me encuentro desarrollando aún más mis skills en Cloud y DevOps. Estos son mis objetivos recientes:
   - [X] Lograr el [Cloud Practitioner](https://www.credly.com/badges/8e519882-77f2-475e-a11d-afbc2a0c10fe/) de AWS.
   - [ ] Lograr el [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) de AWS.
-  - [ ] Lograr el [Associate Cloud Engineer](https://cloud.google.com/learn/certification/cloud-engineer?hl=es-419) de Google Cloud.
-  - [ ] Completar el curso de Coursera de IBM de DevOps.
+  - [X] Lograr el [Associate Cloud Engineer](https://www.credly.com/badges/e3ed22c5-1eef-4ace-a218-b8ebd89e65fd/) de Google Cloud.
   - [ ] Completar más [cursos](https://github.com/dottox/ibm-notes) de mi pasantía en IBM.
-  - [ ] Aprender Laravel.
+  - [ ] Aprender Java/Spring Boot.
   - [ ] Completar el Advent of Code 2024, mi progreso en este [repo](https://github.com/dottox/AOC2024).
 
 <h3 align="left">Me encuentras en:</h3>
