@@ -13,7 +13,6 @@
   - [X] Lograr el [Associate Cloud Engineer](https://www.credly.com/badges/e3ed22c5-1eef-4ace-a218-b8ebd89e65fd/) de Google Cloud.
   - [ ] Completar todos los proyectos de [DevOps de Roadmap.sh](https://roadmap.sh/devops/projects)
   - [ ] Aprender Java/Spring Boot.
-  - [ ] Completar el Advent of Code 2024, mi progreso en este [repo](https://github.com/dottox/AOC2024).
 
 <h3 align="left">Me encuentras en:</h3>
 <p align="left">
