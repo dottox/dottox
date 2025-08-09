@@ -9,10 +9,10 @@
 
 - 🌱 Actualmente me encuentro desarrollando aún más mis skills en Cloud y DevOps. Estos son mis objetivos recientes:
   - [X] Lograr el [Cloud Practitioner](https://www.credly.com/badges/8e519882-77f2-475e-a11d-afbc2a0c10fe/) de AWS.
-  - [ ] Lograr el [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) de AWS.
+  - [ ] Lograr el [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) o Developer de AWS.
   - [X] Lograr el [Associate Cloud Engineer](https://www.credly.com/badges/e3ed22c5-1eef-4ace-a218-b8ebd89e65fd/) de Google Cloud.
   - [ ] Completar todos los proyectos de [DevOps de Roadmap.sh](https://roadmap.sh/devops/projects)
-  - [ ] Aprender Java/Spring Boot.
+  - [X] Aprender Java/Spring Boot.
 
 <h3 align="left">Me encuentras en:</h3>
 <p align="left">
