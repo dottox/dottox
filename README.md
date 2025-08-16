@@ -3,16 +3,22 @@
 
 - 📖 Voy en el segundo año de la carrera universitaria.
   
-- ⌨️ Bootcamp Finalizado! [AWS re/start](https://aws.amazon.com/es/training/restart/). Ya soy [AWS Cloud Practitioner](https://www.credly.com/badges/8e519882-77f2-475e-a11d-afbc2a0c10fe/).
+- 🌱 Proyectos actuales:
+  - [ ] Lifo: MMORPG web basado en texto y pixel-art. Puedes ver la [API](https://github.com/dottox/Lifo-API) y la Página Web.
+  - [ ] [volando.uy](https://github.com/volando-uy): Proyecto de Programación de aplicaciones
+ 
 
-- 🤝 Todos mis proyectos están en repositorios públicos.
-
-- 🌱 Actualmente me encuentro desarrollando aún más mis skills en Cloud y DevOps. Estos son mis objetivos recientes:
-  - [X] Lograr el [Cloud Practitioner](https://www.credly.com/badges/8e519882-77f2-475e-a11d-afbc2a0c10fe/) de AWS.
-  - [ ] Lograr el [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) o Developer de AWS.
-  - [X] Lograr el [Associate Cloud Engineer](https://www.credly.com/badges/e3ed22c5-1eef-4ace-a218-b8ebd89e65fd/) de Google Cloud.
-  - [ ] Completar todos los proyectos de [DevOps de Roadmap.sh](https://roadmap.sh/devops/projects)
-  - [X] Aprender Java/Spring Boot.
+- 📚 Actualmente me encuentro desarrollando aún más mis skills en Cloud y DevOps. Estos son mis objetivos actuales y finalizados recientemente:
+  - Cloud:
+    - [X] Lograr el [Cloud Practitioner](https://www.credly.com/badges/8e519882-77f2-475e-a11d-afbc2a0c10fe/) de AWS.
+    - [X] Lograr el [Associate Cloud Engineer](https://www.credly.com/badges/e3ed22c5-1eef-4ace-a218-b8ebd89e65fd/) de Google Cloud.
+    - [ ] Lograr el [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) o [Developer](https://aws.amazon.com/certification/certified-developer-associate/) de AWS.
+  - DevOps:
+    - [ ] Lograr el [IBM Applied DevOps Engineering Professional Certificate](www.coursera.org/professional-certificates/ibm-applied-devops-engineering).
+    - [ ] Completar todos los proyectos de [DevOps de Roadmap.sh](https://roadmap.sh/devops/projects)
+  - Dev:
+    - [X] Aprender Java/Spring Boot.
+    - [ ] Aprender Go.
 
 <h3 align="left">Me encuentras en:</h3>
 <p align="left">
