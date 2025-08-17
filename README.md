@@ -14,10 +14,10 @@
     - [X] Lograr el [Associate Cloud Engineer](https://www.credly.com/badges/e3ed22c5-1eef-4ace-a218-b8ebd89e65fd/) de Google Cloud.
     - [ ] Lograr el [Solutions Architect](https://aws.amazon.com/certification/certified-solutions-architect-associate/) o [Developer](https://aws.amazon.com/certification/certified-developer-associate/) de AWS.
   - DevOps:
-    - [ ] Lograr el [IBM Applied DevOps Engineering Professional Certificate](www.coursera.org/professional-certificates/ibm-applied-devops-engineering).
+    - [ ] Lograr el [IBM Applied DevOps Engineering Professional Certificate](https://coursera.org/professional-certificates/ibm-applied-devops-engineering). (6/9 cursos completados)
     - [ ] Completar todos los proyectos de [DevOps de Roadmap.sh](https://roadmap.sh/devops/projects)
   - Dev:
-    - [X] Aprender Java/Spring Boot.
+    - [X] Aprender Java y Spring Boot.
     - [ ] Aprender Go.
 
 <h3 align="left">Me encuentras en:</h3>
