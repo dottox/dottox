@@ -23,7 +23,7 @@
 <h3 align="left">Me encuentras en:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ignacio-suárez-12493b297" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ignacio-suárez-12493b297" height="30" width="40" /></a>
-<a href="https://instagram.com/_.dottox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.dottox" height="30" width="40" /></a>
+<a href="https://instagram.com/_.dotto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.dotto" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/dottox" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dottox" height="30" width="40" /></a>
 </p>
 
