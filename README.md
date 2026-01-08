@@ -4,8 +4,7 @@
 - 📖 Voy en el segundo año de la carrera universitaria.
   
 - 🌱 Proyectos actuales:
-  - [ ] Lifo: MMORPG web basado en texto y pixel-art. Puedes ver la [API](https://github.com/dottox/Lifo-API) y la Página Web.
-  - [ ] [volando.uy](https://github.com/volando-uy): Proyecto de Programación de aplicaciones
+  - [X] [volando.uy](https://github.com/volando-uy): Proyecto de Programación de aplicaciones
  
 
 - 📚 Actualmente continúo mejorando mis habilidades en Cloud y DevOps. Estos son mis objetivos actuales y finalizados recientemente:
