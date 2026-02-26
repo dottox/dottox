@@ -1,7 +1,7 @@
 <h1 align="center">Hola ✌️ Me llamo <i>Nacho</i></h1>
 <h3 align="center">-> Cloud & Dev <-</h3>
 
-- 📖 Voy en el segundo año de la carrera universitaria.
+- 📖 Voy en el tercer año de la carrera universitaria.
   
 - 🌱 Proyectos actuales:
   - [X] [volando.uy](https://github.com/volando-uy): Proyecto de Programación de aplicaciones
