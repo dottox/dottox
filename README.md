@@ -29,7 +29,7 @@
 [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes,openshift,grafana,prometheus,linux,redhat,terraform&perline=5)](https://skillicons.dev)
 
 ### Other
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,git,github,postman,swagger&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,postman,git,github,githubactions,&perline=4)](https://skillicons.dev)
 
 ![](https://github-readme-stats-eight-tau-98.vercel.app/api?username=dottox&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
 ![](https://github-readme-stats-eight-tau-98.vercel.app/api/top-langs/?username=dottox&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
