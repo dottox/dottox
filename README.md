@@ -31,5 +31,5 @@
 ### Other
 [![My Skills](https://skillicons.dev/icons?i=postgres,mysql,sqlite,postman,git,github,githubactions,&perline=4)](https://skillicons.dev)
 
-![](https://github-readme-stats-eight-tau-98.vercel.app/api?username=dottox&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-stats-eight-tau-98.vercel.app/api/top-langs/?username=dottox&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=dottox&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dottox&layout=compact&include_all_commits=true&count_private=true&theme=react)
