@@ -5,10 +5,10 @@
   
 - 🌱 Proyectos actuales:
   - [X] [volando.uy](https://github.com/volando-uy): Proyecto de Programación de aplicaciones.
+  - [X] Obtener el [RHCSA](https://www.credly.com/badges/64394ee6-769d-4cfb-927f-650f3af2d5e4/public_url)
   - [ ] [Citrus Chat](https://github.com/citrus-chat): Proyecto de Java EE, chat empresarial interno para mobile/web.
   - [ ] [Proyecto](https://github.com/dottox/lab-videojuegos-2026) de desarrollo de videojuegos, bullet hell en Godot.
   - [ ] Proyecto de talleres de PHP/RIA.
-  - [ ] Obtener el [RHCSA](https://www.redhat.com/es/services/certification/rhcsa).
  
 
 - 📚 Actualmente continúo mejorando mis habilidades en Cloud y DevOps. Estos son mis objetivos actuales y finalizados recientemente:
